@@ -1,0 +1,50 @@
+#app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+#countdown, #randomNumber {
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+#circleButton {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: red;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  display: none;
+}
+
+p {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+#chart {
+  margin-top: 40px;
+}
+
+#difference {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  font-size: 18px;
+  display: inline-block;
+}
